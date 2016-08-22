@@ -1,0 +1,8 @@
+<h1 class="talk__title">{{ model.title }}</h1>
+{{#each model.developers as |developer|}}
+  <div class="talk__developer">
+    <img src="{{ developer.imageUrl }}" class="talk__developer-image" />
+    <div class="talk__developer-name">{{ developer.name }}</div>
+  </div>
+{{/each}}
+<p class="talk__description">{{ model.description }}</p>

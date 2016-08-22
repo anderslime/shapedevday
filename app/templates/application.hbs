@@ -1,0 +1,21 @@
+<header class="header">
+  <img src="/shapelogo.png" class="header__shape-logo" />
+  <h1 class="header__title">Shape Dev Day</h1>
+</header>
+<nav class="nav">
+  <ul class="nav__menu">
+    {{#link-to 'day' 1 tagName="li" href="false" classNames="nav__menu-item"}}
+      {{#link-to 'day' 1 classNames="nav__menu-link"}}
+        <span class="nav__menu-item-text">Day 1</span>
+      {{/link-to}}
+    {{/link-to}}
+    {{#link-to 'day' 2 tagName="li" href="false" classNames="nav__menu-item"}}
+      {{#link-to 'day' 2 classNames="nav__menu-link"}}
+        <span class="nav__menu-item-text">Day 2</span>
+      {{/link-to}}
+    {{/link-to}}
+  </ul>
+</nav>
+<div class="container">
+  {{outlet}}
+</div>

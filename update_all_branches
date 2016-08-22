@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+git co 1-animations
+git rebase master
+git co 2-loading
+git rebase 1-animations
+git co 3-fastboot
+git rebase 2-loading

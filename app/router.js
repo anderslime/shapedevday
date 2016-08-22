@@ -7,6 +7,10 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('day', { path: '/day/:day_id' }, function() {
+    this.route('talk',  { path: '/talks/:talk_id' });
+  });
+  this.route('index', { path: '/' });
 });
 
 export default Router;

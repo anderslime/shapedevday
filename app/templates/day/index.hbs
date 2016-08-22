@@ -1,0 +1,17 @@
+<ol class="talks">
+  {{#each model.talks as |talk|}}
+    <li class="talks__talk-list-element">
+      {{#link-to 'day.talk' talk.day talk classNames="talks__talk"}}
+        <h3 class="talks__talk-title">{{talk.title}}</h3>
+        {{#each talk.developers as |developer|}}
+          <div class="talks__developer">
+            <img src="{{ developer.imageUrl }}" class="talks__developer-image" data-developer-image-id="{{ developer.id }}" />
+            <div class="talks__developer-name">{{developer.name}}</div>
+          </div>
+        {{/each}}
+      {{/link-to}}
+    </li>
+  {{else}}
+    <h1>No talks for today :-(</h1>
+  {{/each}}
+</ol>
