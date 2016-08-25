@@ -12,6 +12,9 @@ module.exports = function(environment) {
         // e.g. 'with-controller': true
       }
     },
+    fastboot: {
+      hostWhitelist: [/^localhost:\d+$/, /^127.0.0.1:\d+$/]
+    },
 
     APP: {
       // Here you can pass flags/options to your application instance

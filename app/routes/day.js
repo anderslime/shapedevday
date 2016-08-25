@@ -8,7 +8,7 @@ export default Ember.Route.extend({
       });
       setTimeout(() => {
         resolve(day);
-      }, 1000);
+      }, 0);
     });
   }
 });
