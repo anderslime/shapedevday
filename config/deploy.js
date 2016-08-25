@@ -2,7 +2,9 @@
 
 module.exports = function(deployTarget) {
   var ENV = {
-    build: {}
+    build: {
+      filePattern: '**/*.{js,css,png,gif,ico,jpg,map,xml,txt,svg,swf,eot,ttf,woff,woff2,otf},**/api/days'
+    }
     // include other plugin configuration that applies to all deploy targets here
   };
 
