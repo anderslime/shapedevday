@@ -1,101 +1,115 @@
 [
-	{
-		"id": 1,
-		"talks": [
-			{
-				"id": 1,
-				"title": "Android vs. iOS bingo",
-				"day": 1,
-				"description": "Cortado ship it co-working driven sticky note sticky note actionable insight. Integrate unicorn fund food-truck moleskine responsive food-truck big data long shadow minimum viable product. Pivot personas responsive Steve Jobs human-centered design SpaceTeam disrupt moleskine hacker long shadow innovate.",
-				"developers": [
-					{
-						"id": 1,
-						"name": "Marcus Mattsson",
-						"github": "mattsson",
-						"image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Marcus.jpg"
-					},
-					{
-						"id": 2,
-						"name": "Mads Frandsen",
-						"github": "madsbf",
-						"image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Mads.jpg"
-					}
-				]
-			},
-			{
-				"id": 2,
-				"day": 1,
-				"title": "Sharing classes between projects using git submodules",
-				"description": "Moleskine ideate waterfall is so 2000 and late prototype ship it pivot paradigm responsive long shadow minimum viable product. User story engaging agile ship it Steve Jobs iterate human-centered design entrepreneur ideate thinker-maker-doer. Disrupt hacker pair programming intuitive physical computing earned media unicorn engaging. Personas Steve Jobs SpaceTeam venture capital piverate integrate viral engaging food-truck cortado venture capital disrupt.",
-				"developers": [
-					{
-						"id": 3,
-						"name": "Oliver Nielsen",
-						"github": "OliverNielsen",
-						"image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Oliver.jpg"
-					}
-				]
-			},
-			{
-				"id": 3,
-				"title": "Ember.js",
-				"day": 1,
-				"description": "Ideate SpaceTeam innovate thought leader pair programming viral personas food-truck 360 campaign workflow big data. Pitch deck thought leader hacker SpaceTeam food-truck ship it paradigm ideate earned media. Human-centered design food-truck pivot venture capital paradigm minimum viable product co-working Steve Jobs. Thought leader unicorn entrepreneur affordances long shadow engaging thinker-maker-doer pitch deck. Steve Jobs grok Steve Jobs pivot pair programming fund pitch deck sticky note food-truck.",
-				"developers": [
-					{
-						"id": 4,
-						"name": "Anders Emil Nielsen",
-						"github": "anderslime",
-						"image_url": "https://avatars1.githubusercontent.com/u/708167?v=3&s=460"
-					}
-				]
-			},
-			{
-				"id": 4,
-				"title": "Do we need SnapKit?",
-				"day": 1,
-				"description": "Disrupt thinker-maker-doer personas pivot driven bootstrapping grok earned media responsive pair programming minimum viable product. Fund personas user story cortado co-working disrupt user centered design earned media SpaceTeam bootstrapping. Actionable insight thought leader pitch deck pivot affordances long shadow iterate venture capital personas grok.",
-				"developers": [
-					{
-						"id": 5,
-						"name": "Simon Støvring",
-						"github": "simonbs",
-						"image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/simon_s.jpg"
-					}
-				]
-			},
-			{
-				"id": 5,
-				"title": "Annotation processes and config vars 2.0 (Android only)",
-				"day": 1,
-				"description": "Steve Jobs thought leader Steve Jobs entrepreneur user centered design prototype venture capital parallax iterate hacker prototype grok. Actionable insight responsive affordances latte 360 campaign responsive latte disrupt user centered design paradigm parallax. Grok driven workflow thought leader entrepreneur driven entrepreneur physical computing co-working bootstrapping. Minimum viable product pivot agile unicorn experiential affordances disrupt SpaceTeam responsive paradigm responsive hacker engaging.",
-				"developers": [
-					{
-						"id": 2,
-						"name": "Mads Frandsen",
-						"github": "madsbf",
-						"image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Mads.jpg"
-					}
-				]
-			},
-			{
-				"id": 6,
-				"title": "Artifacts (Android only)",
-				"day": 1,
-				"description": "Human-centered design convergence earned media waterfall is so 2000 and late hacker convergence innovate driven convergence iterate user centered design pivot. Waterfall is so 2000 and late minimum viable product agile prototype agile thinker-maker-doer thought leader thinker-maker-doer prototype grok venture capital latte actionable insight user centered design. 360 campaign 360 campaign actionable insight viral driven grok grok. Actionable insight sticky note food-truck actionable insight ideate latte sticky note hacker.",
-				"developers": [
-					{
-						"id": 6,
-						"name": "David Jørgensen",
-						"github": "davidjorgensen",
-						"image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/David.jpg"
-					}
-				]
-			}
-		]
-	},
-	{
-		"id": 2,
-		"talks": []
-	}
+  {
+    "id": 1,
+    "talks": [
+      {
+        "id": 1,
+        "title": "Android vs. iOS bingo",
+        "day": 1,
+        "description": "Cortado ship it co-working driven sticky note sticky note actionable insight. Integrate unicorn fund food-truck moleskine responsive food-truck big data long shadow minimum viable product. Pivot personas responsive Steve Jobs human-centered design SpaceTeam disrupt moleskine hacker long shadow innovate.",
+        "developers": [
+          {
+            "id": 1,
+            "name": "Marcus Mattsson",
+            "github": "mattsson",
+            "image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Marcus.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Mads Frandsen",
+            "github": "madsbf",
+            "image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Mads.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "day": 1,
+        "title": "Sharing classes between projects using git submodules",
+        "description": "Moleskine ideate waterfall is so 2000 and late prototype ship it pivot paradigm responsive long shadow minimum viable product. User story engaging agile ship it Steve Jobs iterate human-centered design entrepreneur ideate thinker-maker-doer. Disrupt hacker pair programming intuitive physical computing earned media unicorn engaging. Personas Steve Jobs SpaceTeam venture capital piverate integrate viral engaging food-truck cortado venture capital disrupt.",
+        "developers": [
+          {
+            "id": 3,
+            "name": "Oliver Nielsen",
+            "github": "OliverNielsen",
+            "image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Oliver.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Ember.js",
+        "day": 1,
+        "description": "Ideate SpaceTeam innovate thought leader pair programming viral personas food-truck 360 campaign workflow big data. Pitch deck thought leader hacker SpaceTeam food-truck ship it paradigm ideate earned media. Human-centered design food-truck pivot venture capital paradigm minimum viable product co-working Steve Jobs. Thought leader unicorn entrepreneur affordances long shadow engaging thinker-maker-doer pitch deck. Steve Jobs grok Steve Jobs pivot pair programming fund pitch deck sticky note food-truck.",
+        "developers": [
+          {
+            "id": 4,
+            "name": "Anders Emil Nielsen",
+            "github": "anderslime",
+            "image_url": "https://avatars1.githubusercontent.com/u/708167?v=3&s=460"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Do we need SnapKit?",
+        "day": 1,
+        "description": "Disrupt thinker-maker-doer personas pivot driven bootstrapping grok earned media responsive pair programming minimum viable product. Fund personas user story cortado co-working disrupt user centered design earned media SpaceTeam bootstrapping. Actionable insight thought leader pitch deck pivot affordances long shadow iterate venture capital personas grok.",
+        "developers": [
+          {
+            "id": 5,
+            "name": "Simon Støvring",
+            "github": "simonbs",
+            "image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/simon_s.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Annotation processes and config vars 2.0 (Android only)",
+        "day": 1,
+        "description": "Steve Jobs thought leader Steve Jobs entrepreneur user centered design prototype venture capital parallax iterate hacker prototype grok. Actionable insight responsive affordances latte 360 campaign responsive latte disrupt user centered design paradigm parallax. Grok driven workflow thought leader entrepreneur driven entrepreneur physical computing co-working bootstrapping. Minimum viable product pivot agile unicorn experiential affordances disrupt SpaceTeam responsive paradigm responsive hacker engaging.",
+        "developers": [
+          {
+            "id": 2,
+            "name": "Mads Frandsen",
+            "github": "madsbf",
+            "image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/Mads.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Artifacts (Android only)",
+        "day": 1,
+        "description": "Human-centered design convergence earned media waterfall is so 2000 and late hacker convergence innovate driven convergence iterate user centered design pivot. Waterfall is so 2000 and late minimum viable product agile prototype agile thinker-maker-doer thought leader thinker-maker-doer prototype grok venture capital latte actionable insight user centered design. 360 campaign 360 campaign actionable insight viral driven grok grok. Actionable insight sticky note food-truck actionable insight ideate latte sticky note hacker.",
+        "developers": [
+          {
+            "id": 6,
+            "name": "David Jørgensen",
+            "github": "davidjorgensen",
+            "image_url": "https://dl.dropboxusercontent.com/u/1727151/shape_dk/Team/David.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "talks": [
+      {
+        "id": 7,
+        "title": "Patterns in Enterprice Software",
+        "day": 2,
+        "description": "Human-centered design convergence earned media waterfall is so 2000 and late hacker convergence innovate driven convergence iterate user centered design pivot. Waterfall is so 2000 and late minimum viable product agile prototype agile thinker-maker-doer thought leader thinker-maker-doer prototype grok venture capital latte actionable insight user centered design. 360 campaign 360 campaign actionable insight viral driven grok grok. Actionable insight sticky note food-truck actionable insight ideate latte sticky note hacker.",
+        "developers": [
+          {
+            "id": 7,
+            "name": "Martin Fowler",
+            "image_url": "https://pbs.twimg.com/profile_images/79787739/mf-tg-sq_400x400.jpg"
+          }
+        ]
+      }
+    ]
+  }
 ]
